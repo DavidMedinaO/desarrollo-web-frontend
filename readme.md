@@ -1,6 +1,3 @@
-# Repositorio de estudio sobre desarrollo de software en la web
+# TIENDA OLIMPO
 
-## Curso 2022
-
-- Olimpo html-css-js
-- Olimpo vue
+Este es un proyecto de ejemplo para una tienda con html, css y js
